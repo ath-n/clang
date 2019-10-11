@@ -23,4 +23,4 @@ on the Clang development mailing list:
   http://lists.llvm.org/mailman/listinfo/cfe-dev
 
 If you find a bug in Clang, please file it in the LLVM bug tracker:
-  http://llvm.org/bugs/
+  https://llvm.org/bugs/
